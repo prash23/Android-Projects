@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="creativecrew.geology_creativecrew">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/geohelper"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/MyMaterialTheme">
+        <activity android:name=".HomeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Categories"
+            android:parentActivityName=".HomeActivity" >
+
+        <!-- Parent activity meta-data to support 4.0 and lower -->
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".HomeActivity" />
+        </activity>
+        <activity android:name=".StrikeDip"/>
+        <activity android:name=".Threepoint"
+            android:parentActivityName=".Categories" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Categories" />
+        </activity>
+
+        <activity android:name=".ThreepointOutput"
+            android:parentActivityName=".Threepoint" >
+
+        <!-- Parent activity meta-data to support 4.0 and lower -->
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".Threepoint" />
+        </activity>
+
+        <activity android:name=".TypeofProblemSimplePlanView"
+            android:parentActivityName=".Categories" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Categories" />
+        </activity>
+
+        <activity android:name=".SimplePlanViewOutput"/>
+        <activity android:name=".SimplePlanView"
+            android:parentActivityName=".TypeofProblemSimplePlanView" >
+
+        <!-- Parent activity meta-data to support 4.0 and lower -->
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".TypeofProblemSimplePlanView" />
+        </activity>
+
+        <activity android:name=".AzimuthOutput"
+            android:parentActivityName=".SimplePlanView" >
+        <!-- Parent activity meta-data to support 4.0 and lower -->
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".SimplePlanView" />
+        </activity>
+
+        <activity android:name=".DDQuadrantOutput"
+            android:parentActivityName=".SimplePlanView" >
+        <!-- Parent activity meta-data to support 4.0 and lower -->
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".SimplePlanView" />
+        </activity>
+
+        <activity android:name=".DDAzimuthOutput"
+            android:parentActivityName=".SimplePlanView" >
+        <!-- Parent activity meta-data to support 4.0 and lower -->
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".SimplePlanView" />
+        </activity>
+
+
+
+        <activity android:name=".Trigonometry_RiverOutput"
+            android:parentActivityName=".Trigonometric_River" >
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Trigonometric_River" />
+        </activity>
+
+        <activity android:name=".Trigonometric_River"
+            android:parentActivityName=".TrigonometricCategories" >
+        <!-- Parent activity meta-data to support 4.0 and lower -->
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".TrigonometricCategories" />
+        </activity>
+
+        <activity android:name=".TrigonometricRiverFromSavedProblem"
+            android:parentActivityName=".TrigonometricCategories" >
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TrigonometricCategories" />
+        </activity>
+
+        <activity android:name=".QuadrantOutput"
+            android:parentActivityName=".SimplePlanView" >
+        <!-- Parent activity meta-data to support 4.0 and lower -->
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".SimplePlanView" />
+        </activity>
+
+        <activity android:name=".ThreepointFromSavedProblem"
+            android:parentActivityName=".Categories" >
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Categories" />
+        </activity>
+        <activity android:name=".ComplexActivity"
+            android:parentActivityName=".TrigonometricCategories" >
+        <!-- Parent activity meta-data to support 4.0 and lower -->
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".TrigonometricCategories" />
+        </activity>
+
+        <activity android:name=".ComplexActivityFromSavedProblem"
+            android:parentActivityName=".TrigonometricCategories" >
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TrigonometricCategories" />
+        </activity>
+
+        <activity android:name=".ComplexOutputActivity"
+            android:parentActivityName=".ComplexActivity" >
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ComplexActivity" />
+        </activity>
+        <activity android:name=".RightAngledTriangleInAnotherTriangle"
+            android:parentActivityName=".TrigonometricCategories" >
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TrigonometricCategories" />
+        </activity>
+        <activity android:name=".RightAngledTriangleInAnotherTriangleOutput"
+            android:parentActivityName=".RightAngledTriangleInAnotherTriangle" >
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".RightAngledTriangleInAnotherTriangle" />
+        </activity>
+
+        <activity android:name=".RightAngleTriangleFromSavedProblem"
+            android:parentActivityName=".RightAngledTriangleInAnotherTriangle" >
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".RightAngledTriangleInAnotherTriangle" />
+        </activity>
+
+        <activity android:name=".TowerProblem"
+            android:parentActivityName=".TrigonometricCategories" >
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TrigonometricCategories" />
+        </activity>
+        <activity android:name=".TowerProblemOutput"
+            android:parentActivityName=".TowerProblem" >
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TowerProblem" />
+        </activity>
+        <activity android:name=".TrigonometricCategories"
+            android:parentActivityName=".Categories" >
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Categories" />
+        </activity>
+        <activity android:name=".SidesOnly"
+            android:parentActivityName=".TrigonometricCategories" >
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TrigonometricCategories" />
+        </activity>
+        <activity android:name=".SidesOnlyOutput"
+            android:parentActivityName=".SidesOnly" >
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".SidesOnly" />
+        </activity>
+        <activity android:name=".Pythagorean"
+            android:parentActivityName=".TrigonometricCategories" >
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TrigonometricCategories" />
+        </activity>
+        <activity android:name=".PythagoreanOutput"
+            android:parentActivityName=".Pythagorean" >
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Pythagorean" />
+        </activity>
+        <activity android:name=".FlagpoleProblem"
+            android:parentActivityName=".TrigonometricCategories" >
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TrigonometricCategories" />
+        </activity>
+
+        <activity android:name=".FlagPoleFromSavedProblem"
+            android:parentActivityName=".TrigonometricCategories" >
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TrigonometricCategories" />
+        </activity>
+
+        <activity android:name=".FlagpoleProblemOutput"
+            android:parentActivityName=".FlagpoleProblem" >
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".FlagpoleProblem" />
+        </activity>
+
+        <activity android:name=".TestSimpletrigOutput"
+            android:parentActivityName=".Trigonometric_River" >
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Trigonometric_River" />
+        </activity>
+
+        <activity android:name=".TestComplex"
+            android:parentActivityName=".ComplexActivity" >
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ComplexActivity" />
+        </activity>
+
+        <activity android:name=".TestRightInRight"
+            android:parentActivityName=".ComplexActivity" >
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".RightAngledTriangleInAnotherTriangle" />
+        </activity>
+
+        <activity android:name=".TestAcute"
+            android:parentActivityName=".ComplexActivity" >
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".FlagpoleProblem" />
+        </activity>
+
+        <activity android:name=".GeologistPaces"
+            android:parentActivityName=".PacesInput" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".PacesInput" />
+        </activity>
+
+        <activity android:name=".PacesInput"
+            android:parentActivityName=".SimplePlanView" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".SimplePlanView" />
+        </activity>
+
+    </application>
+
+</manifest>
