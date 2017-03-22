@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Geology_Creativecrew\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\Geology_Creativecrew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_45904b104139cb49f52744cc208f3d2aa5ebd0e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Geology_Creativecrew\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\Geology_Creativecrew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_ef9d0df47ca979c8e9cf93e1f4bbba707bbfa455\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Prashanth\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="E:\Geology_Creativecrew\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_f3d57486500adae53720168032a01676354c16bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Geology_Creativecrew\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\Geology_Creativecrew\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_fccfd8b77e335a563c983ce384b64cafc64816ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Geology_Creativecrew\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\Geology_Creativecrew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_c799492bf4b59e0db7838f2ce5fadbf5014eb7c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Geology_Creativecrew\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\Geology_Creativecrew\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d3ed83023ff72327c178eb6fdcec05a1352aed57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Geology_Creativecrew\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b3f2f82a3805cb689e32238c95cb291a433b4323">
+        <dex dex="E:\Geology_Creativecrew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.1.1_bd93d2a48fc32f6f366cba20478a3a7415684e15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Geology_Creativecrew\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6602324511869b4337e4c3b17f9b9b8cc96b3afb">
+        <dex dex="E:\Geology_Creativecrew\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c41276a74920fd05da75afd38e0aabfc99b572c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Geology_Creativecrew\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="E:\Geology_Creativecrew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.4.0_d9aa9b74dbd2bdc78502a933c8b04f780c07bee4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Geology_Creativecrew\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8f2650f265a3fba9a6937b052d1e73f7847f0b32">
+        <dex dex="E:\Geology_Creativecrew\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_eccb6282ea565e7a86f18530ae4148ba7c400092\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Geology_Creativecrew\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\Geology_Creativecrew\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_835ff51e1afdede7e538b628d709323960d0b707\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Geology_Creativecrew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="E:\Geology_Creativecrew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.4.0_7b80aba89009f18c911cd57f708742f394ae895a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Prashanth\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\Geology_Creativecrew\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_19b02aef09b230b0ab394a4938e7b77822eb2755\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Geology_Creativecrew\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\Geology_Creativecrew\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a49c866073e5c9932cdc7a694362287ec3ce1911\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Geology_Creativecrew\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\Geology_Creativecrew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_2a0168eeb8244593eb0666bef4f90d314daa7c9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Geology_Creativecrew\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\Geology_Creativecrew\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ff5266a7cf6d9f6ba72788a51222de86be6885c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Geology_Creativecrew\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\Geology_Creativecrew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_118e1bcc59fcb37611a5daa454d5959920e3b05f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Geology_Creativecrew\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Geology_Creativecrew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_33bd2360d3b8b7af2c8dbd26e1a34dfefe0bf4fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Geology_Creativecrew\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\Geology_Creativecrew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_25c4a3487c179afc29e01f8079a77b081e1f8617\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Geology_Creativecrew\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="E:\Geology_Creativecrew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_be7942c25668b1221fe2e9b3a16e2682e8193fee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Geology_Creativecrew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="E:\Geology_Creativecrew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.4.0_ff96913b7f39fbd6f3c3d566a874d44bfff75303\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Geology_Creativecrew\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\Geology_Creativecrew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_117d149f353a402f8fe0ac3486edbeb60e1e69d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Geology_Creativecrew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="E:\Geology_Creativecrew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.4.0_5325e4b138d1eda294d6d0e891cc9ca9cf457452\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Geology_Creativecrew\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\Geology_Creativecrew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_741049014dd4f39d322b2c3d123f8208616770f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Geology_Creativecrew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="E:\Geology_Creativecrew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.4.0_69519eb65d17783b8074caf274dfbcbf97817edc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Geology_Creativecrew\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\Geology_Creativecrew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_a58814b8f1a31b4838249240d88bfdcf4bc0dfb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Geology_Creativecrew\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\Geology_Creativecrew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_80802409d733c723b905ba5d541d6b37aff7c0b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Prashanth\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="E:\Geology_Creativecrew\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.0_d8f94c5f87a8b98010e5ccd639f7a6fabef6a2e1\classes.dex" />
+    </item>
+
+</items>

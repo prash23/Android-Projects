@@ -1,0 +1,7 @@
+#Fri Dec 09 08:57:34 CST 2016
+base.0=E\:\\Geology_Creativecrew\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_eccb6282ea565e7a86f18530ae4148ba7c400092
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Geology_Creativecrew\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c41276a74920fd05da75afd38e0aabfc99b572c1\\classes.dex
+base.1=E\:\\Geology_Creativecrew\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c41276a74920fd05da75afd38e0aabfc99b572c1
+file.0=E\:\\Geology_Creativecrew\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_eccb6282ea565e7a86f18530ae4148ba7c400092\\classes.dex

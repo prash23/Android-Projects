@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pythagorean_output.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\activity_pythagorean_output.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\categories.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\categories.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\threepoint.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\threepoint.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tower_problem.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\activity_tower_problem.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sides_only.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\activity_sides_only.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sides_only_output.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\activity_sides_only_output.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_flagpole_problem_output.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\activity_flagpole_problem_output.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_simple_plan_view_output.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\activity_simple_plan_view_output.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_trigonometric_categories.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\activity_trigonometric_categories.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pythagorean.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\activity_pythagorean.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_complex.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\activity_complex.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\homepage.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\homepage.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_complex_output.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\activity_complex_output.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\strikedip.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\strikedip.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\testcomplexoutput.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\testcomplexoutput.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\testfile.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\testfile.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_geologist_paces.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\activity_geologist_paces.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\testrightinright.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\testrightinright.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\threepoint_output.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\threepoint_output.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\testacute.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\testacute.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pacesinput.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\pacesinput.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_typeof_problem_simple_plan_view.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\activity_typeof_problem_simple_plan_view.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_simple_plan_view.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\activity_simple_plan_view.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\trigonometry_riveroutput.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\trigonometry_riveroutput.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\form_elements.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\form_elements.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_right_angled_triangle_in_another_triangle.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\activity_right_angled_triangle_in_another_triangle.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_right_angled_triangle_in_another_triangle_output.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\activity_right_angled_triangle_in_another_triangle_output.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tower_problem_output.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\activity_tower_problem_output.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_flagpole_problem.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\activity_flagpole_problem.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\trigonometric_river.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\src\\main\\res\\layout\\trigonometric_river.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\Geology_Creativecrew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    }
+]

@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="creativecrew.geology_creativecrew"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/geohelper"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/MyMaterialTheme" >
+        <activity android:name="creativecrew.geology_creativecrew.HomeActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.Categories"
+            android:parentActivityName="creativecrew.geology_creativecrew.HomeActivity" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HomeActivity" />
+        </activity>
+        <activity android:name="creativecrew.geology_creativecrew.StrikeDip" />
+        <activity
+            android:name="creativecrew.geology_creativecrew.Threepoint"
+            android:parentActivityName="creativecrew.geology_creativecrew.Categories" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Categories" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.ThreepointOutput"
+            android:parentActivityName="creativecrew.geology_creativecrew.Threepoint" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Threepoint" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.TypeofProblemSimplePlanView"
+            android:parentActivityName="creativecrew.geology_creativecrew.Categories" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Categories" />
+        </activity>
+        <activity android:name="creativecrew.geology_creativecrew.SimplePlanViewOutput" />
+        <activity
+            android:name="creativecrew.geology_creativecrew.SimplePlanView"
+            android:parentActivityName="creativecrew.geology_creativecrew.TypeofProblemSimplePlanView" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TypeofProblemSimplePlanView" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.AzimuthOutput"
+            android:parentActivityName="creativecrew.geology_creativecrew.SimplePlanView" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".SimplePlanView" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.DDQuadrantOutput"
+            android:parentActivityName="creativecrew.geology_creativecrew.SimplePlanView" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".SimplePlanView" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.DDAzimuthOutput"
+            android:parentActivityName="creativecrew.geology_creativecrew.SimplePlanView" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".SimplePlanView" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.Trigonometry_RiverOutput"
+            android:parentActivityName="creativecrew.geology_creativecrew.Trigonometric_River" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Trigonometric_River" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.Trigonometric_River"
+            android:parentActivityName="creativecrew.geology_creativecrew.TrigonometricCategories" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TrigonometricCategories" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.TrigonometricRiverFromSavedProblem"
+            android:parentActivityName="creativecrew.geology_creativecrew.TrigonometricCategories" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TrigonometricCategories" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.QuadrantOutput"
+            android:parentActivityName="creativecrew.geology_creativecrew.SimplePlanView" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".SimplePlanView" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.ThreepointFromSavedProblem"
+            android:parentActivityName="creativecrew.geology_creativecrew.Categories" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Categories" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.ComplexActivity"
+            android:parentActivityName="creativecrew.geology_creativecrew.TrigonometricCategories" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TrigonometricCategories" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.ComplexActivityFromSavedProblem"
+            android:parentActivityName="creativecrew.geology_creativecrew.TrigonometricCategories" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TrigonometricCategories" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.ComplexOutputActivity"
+            android:parentActivityName="creativecrew.geology_creativecrew.ComplexActivity" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ComplexActivity" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.RightAngledTriangleInAnotherTriangle"
+            android:parentActivityName="creativecrew.geology_creativecrew.TrigonometricCategories" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TrigonometricCategories" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.RightAngledTriangleInAnotherTriangleOutput"
+            android:parentActivityName="creativecrew.geology_creativecrew.RightAngledTriangleInAnotherTriangle" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".RightAngledTriangleInAnotherTriangle" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.RightAngleTriangleFromSavedProblem"
+            android:parentActivityName="creativecrew.geology_creativecrew.RightAngledTriangleInAnotherTriangle" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".RightAngledTriangleInAnotherTriangle" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.TowerProblem"
+            android:parentActivityName="creativecrew.geology_creativecrew.TrigonometricCategories" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TrigonometricCategories" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.TowerProblemOutput"
+            android:parentActivityName="creativecrew.geology_creativecrew.TowerProblem" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TowerProblem" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.TrigonometricCategories"
+            android:parentActivityName="creativecrew.geology_creativecrew.Categories" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Categories" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.SidesOnly"
+            android:parentActivityName="creativecrew.geology_creativecrew.TrigonometricCategories" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TrigonometricCategories" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.SidesOnlyOutput"
+            android:parentActivityName="creativecrew.geology_creativecrew.SidesOnly" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".SidesOnly" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.Pythagorean"
+            android:parentActivityName="creativecrew.geology_creativecrew.TrigonometricCategories" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TrigonometricCategories" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.PythagoreanOutput"
+            android:parentActivityName="creativecrew.geology_creativecrew.Pythagorean" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Pythagorean" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.FlagpoleProblem"
+            android:parentActivityName="creativecrew.geology_creativecrew.TrigonometricCategories" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TrigonometricCategories" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.FlagPoleFromSavedProblem"
+            android:parentActivityName="creativecrew.geology_creativecrew.TrigonometricCategories" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TrigonometricCategories" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.FlagpoleProblemOutput"
+            android:parentActivityName="creativecrew.geology_creativecrew.FlagpoleProblem" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".FlagpoleProblem" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.TestSimpletrigOutput"
+            android:parentActivityName="creativecrew.geology_creativecrew.Trigonometric_River" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Trigonometric_River" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.TestComplex"
+            android:parentActivityName="creativecrew.geology_creativecrew.ComplexActivity" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ComplexActivity" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.TestRightInRight"
+            android:parentActivityName="creativecrew.geology_creativecrew.ComplexActivity" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".RightAngledTriangleInAnotherTriangle" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.TestAcute"
+            android:parentActivityName="creativecrew.geology_creativecrew.ComplexActivity" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".FlagpoleProblem" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.GeologistPaces"
+            android:parentActivityName="creativecrew.geology_creativecrew.PacesInput" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".PacesInput" />
+        </activity>
+        <activity
+            android:name="creativecrew.geology_creativecrew.PacesInput"
+            android:parentActivityName="creativecrew.geology_creativecrew.SimplePlanView" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".SimplePlanView" />
+        </activity>
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="creativecrew.geology_creativecrew.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

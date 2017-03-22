@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TrigonometricCategories">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical"
+        android:id="@+id/toolbar_layout">
+
+        <include
+            android:id="@+id/toolbar"
+            layout="@layout/toolbar" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_marginTop="?attr/actionBarSize"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:layout_below="@+id/toolbar_layout">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:text="One Side and One Angle"
+        android:id="@+id/riverProblem"
+        android:layout_alignParentTop="true"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Obtuse Angled triangle in a Right Angled Triangle"
+        android:id="@+id/complex"
+        android:layout_below="@+id/riverProblem"
+         />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Right angled triangle in a Right Angled Triangle"
+        android:id="@+id/rightAngled"
+        android:layout_below="@+id/complex"
+     />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Acute Angled Triangle"
+        android:id="@+id/flagpole"
+        android:layout_below="@+id/rightAngled"
+        />
+
+    <!--<Button-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Sides only"-->
+        <!--android:id="@+id/sides"-->
+        <!--android:layout_below="@+id/flagpole"-->
+         <!--/>-->
+
+    <!--<Button-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Triangle with extended Side"-->
+        <!--android:id="@+id/tower"-->
+        <!--android:layout_below="@+id/sides"-->
+         <!--/>-->
+
+    <!--<Button-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Pythagorean Theorem"-->
+        <!--android:id="@+id/pyth"-->
+        <!--android:layout_below="@+id/tower"-->
+         <!--/>-->
+    </LinearLayout>
+</RelativeLayout>
